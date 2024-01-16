@@ -25,7 +25,3 @@ Se você está interessado em contribuir para o SysInfoCollector, sinta-se à vo
 ## Licença
 
 SysInfoCollector é distribuído sob a [Licença MIT](/LICENSE.txt). Consulte o arquivo LICENSE.txt para obter detalhes.
-
----
-
-**Desenvolvido por Anderson Reis - Prática TI com colaboração de Hermogenes Marinho.**
